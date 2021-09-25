@@ -1,4 +1,5 @@
 //write a prgram to calculate factorial of a given number using the function fact.
+//NAME - RIYA BHATT ; UNIVERSITY ROLL NO.- 2018652
 #include<iostream>
 using namespace std;
 int fact(int n);
